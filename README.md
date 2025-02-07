@@ -21,3 +21,10 @@ Credit Card Transaction and Customer Dashboard using Power BI
 ✅ Sales increased by 25% in Q4 📈  
 ✅ Category X contributed 40% of total revenue 🛒  
 ✅ Customer retention rate is 70% over 3 months 🎯  
+
+🔗 Connect & Contribute
+📌 LinkedIn : www.linkedin.com/in/devsarthak24
+
+📌 Gmail : sarthakdv8@gmail.com
+
+Want to contribute? Feel free to fork the repository and explore new insights! 🚀
