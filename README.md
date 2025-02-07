@@ -28,7 +28,7 @@ This project demonstrates data analysis and visualization using Power BI. The da
 
 ✅  Credit cards are widely used by Businessman and mostly to pay bills 
 
-✅  Texas generated the mose=t revenue.
+✅  Texas generated the highest revenue.
 ## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
 
