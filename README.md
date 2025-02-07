@@ -15,16 +15,19 @@ This project demonstrates data analysis and visualization using Power BI. The da
 ## 📊 Power BI Dashboard Preview  
 ![image](https://github.com/user-attachments/assets/7ce1dcc5-6f79-4d76-8c67-d16309b1d4fd)
 
+
+
+
 ![image](https://github.com/user-attachments/assets/54385c08-3420-4491-9d94-ff166a211ff9)
 
-## 📂 Download Power BI File  
 
-📌 sfddddddddddddddddd
- 
 
 ## 🔍 Key Insights  
+
 ✅ Sales increased by 25% in Q4 📈  
+
 ✅ Category X contributed 40% of total revenue 🛒  
+
 ✅ Customer retention rate is 70% over 3 months 🎯  
 
 🔗 Connect & Contribute
