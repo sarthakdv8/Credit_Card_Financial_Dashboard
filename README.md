@@ -26,7 +26,7 @@ This project demonstrates data analysis and visualization using Power BI. The da
 
 ✅  People between the age of 40-50 are using credit cards more.
 
-✅  Credit cards are widely used by Buisnessman and mostly to pay bills 
+✅  Credit cards are widely used by Businessman and mostly to pay bills 
 
 ✅  Texas generated the mose=t revenue.
 ## 🔗 Connect & Contribute
