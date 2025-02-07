@@ -9,7 +9,7 @@ This project demonstrates data analysis and visualization using Power BI. The da
 
 🔹 Dataset: credit_card.csv, customer.csv
 
-🔹 Focus Areas: Business performance, sales trends, customer behavior
+🔹 Focus Areas: Customer spending Behaviour and Segmentation, Revenue Generation Analysis, Customer Satisfaction.
 
 
 ## 📊 Power BI Dashboard Preview  
@@ -24,13 +24,12 @@ This project demonstrates data analysis and visualization using Power BI. The da
 
 ## 🔍 Key Insights  
 
-✅ Sales increased by 25% in Q4 📈  
+✅  People between the age of 40-50 are using credit cards more.
 
-✅ Category X contributed 40% of total revenue 🛒  
+✅  Credit cards are widely used by Buisnessman and mostly to pay bills 
 
-✅ Customer retention rate is 70% over 3 months 🎯  
-
-🔗 Connect & Contribute
+✅  Texas generated the mose=t revenue.
+## 🔗 Connect & Contribute
 📌 LinkedIn : www.linkedin.com/in/devsarthak24
 
 📌 Gmail : sarthakdv8@gmail.com
