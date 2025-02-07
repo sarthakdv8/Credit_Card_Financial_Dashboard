@@ -7,17 +7,19 @@ This project demonstrates data analysis and visualization using Power BI. The da
 
 🔹 Tool Used: Microsoft Power BI
 
-🔹 Dataset: [Dataset Name] (CSV / SQL / API)
+🔹 Dataset: credit_card.csv, customer.csv
 
 🔹 Focus Areas: Business performance, sales trends, customer behavior
 
 
 ## 📊 Power BI Dashboard Preview  
-![Power BI Dashboard](images/powerbi_dashboard.png)  
+sfefsfsdfsddddddddddddddddd
 
 
 ## 📂 Download Power BI File  
-📌 [Power BI Report (.pbix)](./PowerBI_Project.pbix)  
+
+📌 sfddddddddddddddddd
+ 
 
 ## 🔍 Key Insights  
 ✅ Sales increased by 25% in Q4 📈  
